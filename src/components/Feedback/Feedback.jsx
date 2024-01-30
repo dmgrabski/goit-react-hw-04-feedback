@@ -1,6 +1,6 @@
-import Section from "..Section/Section";
+import Section from "../Section/Section";
 import Notification from "../Notification/Notification";
-import Statistics from "../Statistics/Statistics";
+import Statistics from "../Notification/Notification";
 import FeedbackOptions from "../FeedbackOptions/FeedbackOptions";
 
 const Feedback = ({feedback, onFeedbackChange}) => {
