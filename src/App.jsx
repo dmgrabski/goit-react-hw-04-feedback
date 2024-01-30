@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./index.css";
-import Feedback from "./components/Feedback";
+import Feedback from "./components/Feedback/Feedback";
 
 
 const App = () => {
